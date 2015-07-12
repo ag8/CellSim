@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CellSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CellSim_jar</output-path>
+    <root id="archive" name="CellSim.jar">
+      <element id="module-output" name="CellSim" />
+    </root>
+  </artifact>
+</component>
